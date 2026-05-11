@@ -22,10 +22,33 @@ This project showcases my ability to design reproducible workflows, validate dat
 
 ## 🧰 Technical Skills
 
-**Languages:** Python, SQL  
-**Tools & Libraries:** Pandas, NumPy, Jupyter, Requests  
-**Data Skills:** ETL workflows, data cleaning, transformation, exploratory analysis  
-**Other:** Git/GitHub, documentation, reporting, workflow organization
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, SQL</td>
+  </tr>
+  <tr>
+    <td><b>Data & ETL</b></td>
+    <td>ETL workflows, data cleaning, data transformation, exploratory analysis</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Libraries</b></td>
+    <td>Pandas, NumPy, Jupyter, Git/GitHub</td>
+  </tr>
+  <tr>
+    <td><b>Workflow & Practices</b></td>
+    <td>Reproducible pipelines, documentation, reporting, version control</td>
+  </tr>
+  <tr>
+    <td><b>Domains</b></td>
+    <td>Data science, analytics, automation</td>
+  </tr>
+</table>
+
 
 ---
 
