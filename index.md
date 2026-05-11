@@ -1,4 +1,6 @@
-# Welcome to My Portfolio
+# Nicholas Wieting
+
+Welcome to my portfolio. I'm a data scientist and Python developer focused on ETL pipelines, automation, and clean data workflows.
 
 ## 🚀 Featured Projects
 
