@@ -51,11 +51,10 @@ This project showcases my ability to design reproducible workflows, validate dat
 
 
 ---
-
 ## 📬 Contact
-**Email:** [NickWieting@gmail.com](mailto:NickWieting@gmail.com)  
 
+**Email:** [NickWieting@gmail.com](mailto:NickWieting@gmail.com)  
 **GitHub:** [github.com/NicholasWieting](https://github.com/NicholasWieting)  
 **Location:** Virginia Beach, VA  
 
-If you’d like to learn more about any project or collaborate, feel free to reach out.
+
