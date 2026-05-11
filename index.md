@@ -1,3 +1,8 @@
 # Welcome to My Portfolio
 
-This site is under construction. More coming soon!
+## 🚀 Featured Projects
+
+### 🔹 ETL Pipeline Project
+A complete ETL workflow implemented in a Jupyter Notebook, including data extraction, cleaning, transformation, and reporting.
+
+**Repository:** https://github.com/NicholasWieting/etl-pipeline
